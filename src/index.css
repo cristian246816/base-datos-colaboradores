@@ -1,0 +1,40 @@
+th {
+  text-align: center;
+}
+
+td {
+  text-align: center;
+}
+
+.form-control {
+  width: 250px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.alert-danger {
+  margin-top: 10px;
+  width: 250px;
+}
+
+.alert-success {
+  margin-top: 10px;
+  width: 250px;  
+}
+
+.container {
+  height: 760px;
+}
+
+.alerta-css {
+  display: flex;
+  justify-content: center;
+}
